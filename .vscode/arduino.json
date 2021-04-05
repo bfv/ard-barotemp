@@ -2,6 +2,6 @@
     "board": "arduino:megaavr:nona4809",
     "configuration": "mode=on",
     "programmer": "AVR ISP",
-    "port": "COM4",
+    "port": "COM3",
     "sketch": "barotemp.ino"
 }
